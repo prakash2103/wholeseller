@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("https://media.istockphoto.com/id/1334821380/photo/black-friday-background-black-shopping-cart-paper-bag.jpg?s=612x612&w=0&k=20&c=UYOeABDTDeNdOn47iK4QuRLtQ7vS8nm6yVt-obJ4q2s=");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 450px;
+    margin: 140px auto 0px auto;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 18px;
+    border-radius: 10px;
+    border:1px solid rgba(255,255,255,0.3) ;
+    box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.3);
+    color: #fff; 
+}
+.login{
+    height: 340px;
+    margin-left: 133px;
+    margin-bottom: 20px;
+    margin-top: 102px;
+}
+.login h2{
+    text-align: center;
+    margin-bottom: 73px;
+    margin-left: -136px;
+    font-family: sans-serif;
+}
+#name{
+    width: 300px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+    outline: 0;
+    padding: 7px;
+    background-color:#fff ;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3); 
+}
+#login{
+    margin-left: -54px;
+}
